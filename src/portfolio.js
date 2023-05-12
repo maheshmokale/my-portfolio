@@ -15,9 +15,11 @@ const greeting = {
   full_name: "Mahesh Mokale",
   subTitle1: "Full Stack Developer.",
   subTitle2: "Life Long Learner.",
-  subTitle: "Full Stack Developer, Life Long Learner.",
+  subTitle3: "Cook too.",
+
+  subTitle: "Full Stack Developer, Life Long Learner, Cook too",
   resumeLink:
-    "https://drive.google.com/file/d/1lFqkZnNUg5N2muUuv6qIF6so6xloY6-4/view?usp=sharing",
+    "https://drive.google.com/file/d/1ISxISW06Lg9MHE8_huPnqYdZCiM2u5E5/view?usp=share_link",
   mail: "mailto:maheshmokale.mm@gmail.com",
 };
 

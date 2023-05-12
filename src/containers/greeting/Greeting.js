@@ -55,6 +55,11 @@ export default function Greeting(props) {
                       .typeString(
                         `<span style="color: ${theme.accentColor}">${greeting.subTitle2}</span>`
                       )
+                      .pauseFor(200)
+                      .deleteChars(21)
+                      .typeString(
+                        `<span style="color: ${theme.accentColor}">${greeting.subTitle3}</span>`
+                      )
                       .pauseFor(1000)
                       .start();
                   }}
