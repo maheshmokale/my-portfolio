@@ -34,8 +34,8 @@ npm start
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Sumit_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshmokale/)
-[![Github](https://img.shields.io/badge/Sumit_Sharma-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/maheshmokale/)
+[![linkedin](https://img.shields.io/badge/Mahesh_Mokale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshmokale/)
+[![Github](https://img.shields.io/badge/Mahesh_Mokale-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/maheshmokale/)
 
 ## Show your support
 
