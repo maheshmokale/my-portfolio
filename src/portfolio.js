@@ -509,43 +509,43 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "I've over 2 years of experience as a full stack developer. I've worked on building products for multiple stakeholders in Infosys as well as my personal projects.",
+    "I've over 5+s years of experience as a full stack developer. I've worked on building products for multiple stakeholders in TCS, Cybage and Amdocs as well as my personal projects.",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
     experiences: [
       {
-        title: "System Associate",
-        company: "Infosys",
-        company_url: "https://www.infosys.com/",
-        logo_path: "infosys-logo.png",
-        alt_name: "infosys-logo",
-        duration: "(Feb, 2023 - May, 2023)",
+        title: "Sr. Software Developer",
+        company: "Amdocs",
+        company_url: "https://www.amdocs.com/",
+        logo_path: "amdocs-logo.png",
+        alt_name: "amdocs-logo",
+        duration: "(May, 2021 - July, 2022)",
         location: "Remote",
         description:
           "<li>Launched Encharta 2.0 in a team of four with add on features such as multiple content pages in a single project, audio, custom gradients, trigger and hover based animations etc. in canvas using ReactJS v18.</li><br><li>Created a PWA named Encharta for all the educators in Infosys for creating their own analogies with add on animations in their content using HTML, CSS, JavaScript and an open source library Fabric.js.</li>",
         color: "#0071C5",
       },
       {
-        title: "Operations Executive",
-        company: "Infosys",
-        company_url: "https://www.infosys.com/",
-        logo_path: "infosys-logo.png",
-        alt_name: "infosys-logo",
-        duration: "(Nov, 2021 - Jan, 2023)",
+        title: "Software Engineer",
+        company: "Cybage",
+        company_url: "hhttps://www.cybage.com/",
+        logo_path: "cybage-logo.png",
+        alt_name: "cybage-logo",
+        duration: "(Sep, 2019 - May, 2021)",
         location: "Remote",
         description:
           "<li>Implemented few UI tweaks and added new categories with add on pop-ups (video, images etc.) in an web app named “Awards For Excellence” which is used for nominating employees within Infosys for various award categories using Angular v10.</li><br><li>Implemented REST API using Node and Express to fetch the data of the classrooms, learners, educators and courses. Used socket programming for multi-user experience and other features like chat, screen, audio and video share for web based AR/VR learning platform.</li><br><li>Developed 2 new tools with an intuitive design in Lex (Learning platform for the employees of Infosys) for interactive content creation using Angular v12 which is getting used by 100+ educators for creating new interactive courses, consumed by 1000+ learners.</li>",
         color: "#0071C5",
       },
       {
-        title: "Java Full Stack Developer Trainee",
-        company: "Infosys",
-        company_url: "https://www.infosys.com/",
-        logo_path: "infosys-logo.png",
-        alt_name: "infosys-logo",
-        duration: "(Aug, 2021 - Nov, 2021)",
-        location: "Remote",
+        title: "System Engineer",
+        company: "Tata Consultancy Services",
+        company_url: "https://www.tcs.com/",
+        logo_path: "tcs-logo.png",
+        alt_name: "tcs-logo",
+        duration: "(Dec, 2016 - Aug, 2019)",
+        location: "Pune, India",
         description:
           "Worked on multiple Capstone projects using Spring Boot and Angular.",
         color: "#4285F4",
@@ -558,147 +558,12 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create MERN and MEAN Stack Projects. Below are some of my projects.",
+    "My projects make use of a vast variety of latest technology tools. Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
 const projects = {
   data: [
-    {
-      id: "project-0",
-      name: "Crafty Commerce",
-      url: "https://crafty-commerce.vercel.app/",
-      repoUrl: "https://github.com/sumit-sharma-02/crafty-commerce",
-      description:
-        "Crafty Commerce is a full stack e-commerce web application that allows you to purchase different categories of product online. You can apply filters accordingly and find your favourite products in crafty commerce. You can pay with debit/credit cards and in just few click your product will be delivered.",
-      languages: [
-        {
-          name: "React",
-          iconifyClass: "logos:react",
-        },
-        {
-          name: "Redux",
-          iconifyClass: "logos:redux",
-        },
-        {
-          name: "Express",
-          iconifyClass: "simple-icons:express",
-        },
-        {
-          name: "Nodejs",
-          iconifyClass: "logos:nodejs",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "vscode-icons:file-type-mongo",
-        },
-        {
-          name: "Stripe",
-          iconifyClass: "logos:stripe",
-        },
-        {
-          name: "Tailwind",
-          iconifyClass: "vscode-icons:file-type-tailwind",
-        },
-        {
-          name: "Cloudinary",
-          iconifyClass: "logos:cloudinary-icon",
-        },
-        {
-          name: "Framer Motion",
-          iconifyClass: "logos:framer",
-        },
-      ],
-    },
-    {
-      id: "project-1",
-      name: "Tikkaway",
-      url: "https://restaurant-app-bceb0.web.app/",
-      repoUrl: "https://github.com/sumit-sharma-02/tikkaway",
-      description:
-        "Tikkaway is a full stack restaurant web application that allows you to order food online. It has wide variety of categories on the menu like Chicken, Curry, Rice, Fish, Fruits, Icecreams, Soft Drinks etc.",
-      languages: [
-        {
-          name: "React",
-          iconifyClass: "logos:react",
-        },
-        {
-          name: "Redux",
-          iconifyClass: "logos:redux",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos:firebase",
-        },
-        {
-          name: "Tailwind",
-          iconifyClass: "vscode-icons:file-type-tailwind",
-        },
-        {
-          name: "Framer Motion",
-          iconifyClass: "logos:framer",
-        },
-      ],
-    },
-    {
-      id: "project-2",
-      name: "MEAN Agency",
-      url: "",
-      repoUrl: "https://github.com/sumit-sharma-02/mean-agency",
-      description:
-        "Mean Agency is a full stack service provider web application that allows you to provide services to other companies.",
-      languages: [
-        {
-          name: "Angular",
-          iconifyClass: "logos:angular-icon",
-        },
-        {
-          name: "Express",
-          iconifyClass: "simple-icons:express",
-        },
-        {
-          name: "Nodejs",
-          iconifyClass: "logos:nodejs",
-        },
-        {
-          name: "MongoDB",
-          iconifyClass: "vscode-icons:file-type-mongo",
-        },
-        {
-          name: "Bootstrap",
-          iconifyClass: "logos:bootstrap",
-        },
-        {
-          name: "Handlebars",
-          iconifyClass: "vscode-icons:file-type-handlebars",
-        },
-      ],
-    },
-    {
-      id: "project-3",
-      name: "Countdown Timer",
-      url: "https://countdown-timer-sumit-sharma-02.vercel.app/",
-      repoUrl: "https://github.com/sumit-sharma-02/countdown-timer",
-      description: "A Simple React App for countdown to new year using hooks.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
     {
       id: "project-4",
       name: "Portfolio",
@@ -729,28 +594,6 @@ const projects = {
         {
           name: "Styled Components",
           iconifyClass: "vscode-icons:file-type-styled",
-        },
-      ],
-    },
-    {
-      id: "project-5",
-      name: "SpaceX Capsules",
-      url: "https://spacex-capsules.vercel.app/",
-      repoUrl: "https://github.com/sumit-sharma-02/spacex-capsules",
-      description:
-        "A React application which shows you the filtered spaceX capsules data.",
-      languages: [
-        {
-          name: "React",
-          iconifyClass: "logos:react",
-        },
-        {
-          name: "Redux",
-          iconifyClass: "logos:redux",
-        },
-        {
-          name: "Tailwind",
-          iconifyClass: "vscode-icons:file-type-tailwind",
         },
       ],
     },
