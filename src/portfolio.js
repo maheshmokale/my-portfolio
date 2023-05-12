@@ -9,24 +9,24 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hi",
-  title2: " I'm Sumit Sharma",
-  logo_name: "Sumit Sharma",
+  title2: " I'm Mahesh Mokale",
+  logo_name: "Mahesh Mokale",
   // nickname: "harry / picleric",
-  full_name: "Sumit Sharma",
+  full_name: "Mahesh Mokale",
   subTitle1: "Full Stack Developer.",
   subTitle2: "Life Long Learner.",
   subTitle: "Full Stack Developer, Life Long Learner.",
   resumeLink:
     "https://drive.google.com/file/d/1lFqkZnNUg5N2muUuv6qIF6so6xloY6-4/view?usp=sharing",
-  mail: "mailto:sumitsharma9968@gmail.com",
+  mail: "mailto:maheshmokale.mm@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/sumit-sharma-02",
-  linkedin: "https://www.linkedin.com/in/sumitsharma002",
-  gmail: "sumitsharma9968@gmail.com",
-  twitter: "https://twitter.com/sumitsharma002",
+  github: "https://github.com/maheshmokale",
+  linkedin: "https://www.linkedin.com/in/maheshmokale/",
+  gmail: "maheshmokale.mm@gmail.com",
+  twitter: "https://twitter.com/maheshmokale",
 };
 
 const skills = {
@@ -329,28 +329,28 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Amrita Vishwa Vidyapeetham, Coimbatore",
-      subtitle: "Masters in Computer Applications (MCA)",
-      logo_path: "amrita_logo.png",
-      alt_name: "Amrita University",
-      duration: "2021 - 2023",
+      title: "California State University, East Bay, United States",
+      subtitle: "Masters in Computer Science (MSCS)",
+      logo_path: "CSUEB_logo.png",
+      alt_name: "California State Univeristy, East Bay",
+      duration: "Aug 2022 - May 2024",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence, Machine Learning, Computer Vision etc.",
         "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
       ],
-      website_link: "https://www.amrita.edu/",
+      website_link: "https://www.csueastbay.edu/",
     },
     {
-      title: "Guru Gobind Singh Indraprastha University, New Delhi",
-      subtitle: "Bachelors in Computer Applications (BCA)",
-      logo_path: "ggsipu_logo.png",
+      title: "Pune Institute of Computer Technology, Pune, India",
+      subtitle: "Bachelors in Electronics and Telecommunications Engineering (BE-E&TC)",
+      logo_path: "pict_logo.png",
       alt_name: "GGSIPU",
-      duration: "2018 - 2021",
+      duration: "Aug 2013 - July 2016",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development."
       ],
-      website_link: "http://www.ipu.ac.in/",
+      website_link: "https://pict.edu/",
     },
   ],
 };
@@ -703,7 +703,7 @@ const projects = {
       id: "project-4",
       name: "Portfolio",
       url: "",
-      repoUrl: "https://github.com/sumit-sharma-02/sumit-portfolio",
+      repoUrl: "https://github.com/maheshmokale/my-portfolio",
       description: "You are watching it right now 😉.",
       languages: [
         {
