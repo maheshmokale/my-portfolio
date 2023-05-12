@@ -10,7 +10,7 @@
 
 ```shell
 $ git clone https://github.com/maheshmokale/my-portfolio.git
-$ cd portfolio
+$ cd my-portfolio
 $ npm install --force
 ```
 
