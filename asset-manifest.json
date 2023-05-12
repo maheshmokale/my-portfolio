@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.61e82d03.css",
-    "main.js": "/static/js/main.3862fc18.js",
+    "main.js": "/static/js/main.fdb9afb7.js",
     "static/media/mail.gif": "/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.5f2a2f236048660df440.svg",
@@ -25,6 +25,7 @@
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/tcs-logo.png": "/static/media/tcs-logo.6de8cda579be5c7720c0.png",
+    "static/media/amdocs-logo.png": "/static/media/amdocs-logo.feee064b68a0031bdad5.png",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
@@ -38,10 +39,10 @@
     "static/media/cybage-logo.png": "/static/media/cybage-logo.9983e1ce6d5d06e9a8a8.png",
     "index.html": "/index.html",
     "main.61e82d03.css.map": "/static/css/main.61e82d03.css.map",
-    "main.3862fc18.js.map": "/static/js/main.3862fc18.js.map"
+    "main.fdb9afb7.js.map": "/static/js/main.fdb9afb7.js.map"
   },
   "entrypoints": [
     "static/css/main.61e82d03.css",
-    "static/js/main.3862fc18.js"
+    "static/js/main.fdb9afb7.js"
   ]
 }
