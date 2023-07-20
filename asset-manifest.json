@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.61e82d03.css",
-    "main.js": "/static/js/main.b12c2ddd.js",
+    "main.css": "/static/css/main.7f0f5418.css",
+    "main.js": "/static/js/main.5aa424dc.js",
     "static/media/mail.gif": "/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.5f2a2f236048660df440.svg",
@@ -38,11 +38,11 @@
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/cybage-logo.png": "/static/media/cybage-logo.9983e1ce6d5d06e9a8a8.png",
     "index.html": "/index.html",
-    "main.61e82d03.css.map": "/static/css/main.61e82d03.css.map",
-    "main.b12c2ddd.js.map": "/static/js/main.b12c2ddd.js.map"
+    "main.7f0f5418.css.map": "/static/css/main.7f0f5418.css.map",
+    "main.5aa424dc.js.map": "/static/js/main.5aa424dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.61e82d03.css",
-    "static/js/main.b12c2ddd.js"
+    "static/css/main.7f0f5418.css",
+    "static/js/main.5aa424dc.js"
   ]
 }
