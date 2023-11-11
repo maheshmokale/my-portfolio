@@ -19,7 +19,7 @@ const greeting = {
 
   subTitle: "Full Stack Developer, Life Long Learner, Cook too",
   resumeLink:
-    "https://drive.google.com/file/d/1ISxISW06Lg9MHE8_huPnqYdZCiM2u5E5/view?usp=share_link",
+    "https://drive.google.com/file/d/1ZjMc5I8RbOoO2eKr7BRZPiVya90Ohp0N/view?usp=drive_link",
   mail: "mailto:maheshmokale.mm@gmail.com",
 };
 
@@ -39,9 +39,9 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive user interfaces and backend for web applications",
-        "⚡ Building responsive website front end using React and Angular",
-        "⚡ Creating application backend in Node, Express, MongoDB and Rest API",
-        "⚡ Integration of third party services such as Firebase, Vercel etc.",
+        "⚡ Building responsive website front end using React, Angular and ExtJS",
+        "⚡ Creating application backend in Java, Node",
+        "⚡ Integration of third party services such as Firebase",
       ],
       softwareSkills: [
         {
@@ -337,8 +337,8 @@ const degrees = {
       alt_name: "California State Univeristy, East Bay",
       duration: "Aug 2022 - May 2024",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence, Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have done courses on Cloud Computing and Full Stack Development.",
+        "<li>I have taken varity of courses related to Cloud Computing, Computer Vision, Advance Algorithms, Advance Computer Networks, Advance Computer Architecture etc.</li> <li> Apart from this, I have done courses on Cloud Computing and Full Stack Development.</li>",
+
       ],
       website_link: "https://www.csueastbay.edu/",
     },
@@ -349,8 +349,7 @@ const degrees = {
       alt_name: "GGSIPU",
       duration: "Aug 2013 - July 2016",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        // "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development."
+        "<li>I have studied basic software engineering subjects like Data Structures, Algorithms, Database Management System, Operating Systems, Computer Architecture etc.</li>",
       ],
       website_link: "https://pict.edu/",
     },
@@ -494,15 +493,6 @@ const certifications = {
       alt_name: "GCP",
       color_code: "#eb40308a",
     },
-    {
-      title: "Cloud Computing Fundamentals in GCP",
-      subtitle: "- GCP Training",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://www.cloudskillsboost.google/public_profiles/345a17d9-689f-4154-a3d3-c0396c98b3bc/badges/2469792",
-      alt_name: "GCP",
-      color_code: "#fabd008a",
-    },
   ],
 };
 
@@ -511,11 +501,35 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "I've over 5+s years of experience as a full stack developer. I've worked on building products for multiple stakeholders in TCS, Cybage and Amdocs as well as my personal projects.",
+    "As a Graduate Coordinator at the Student Center for Academic Achievement at California State University, East Bay, I assist students with math and statistics tutoring, coordinating academic support services. Currently pursuing a Master's in Computer Science (expected graduation May 2024), I have a background as a Senior Software Developer at Amdocs. In this role, I contributed to the design and implementation of solutions in CatalogOne, a cloud-based catalog management system, enhancing code quality, performance, and reliability. With over five years of software development experience in Java, Node, and Python, I excel in creating user-friendly systems. Seeking a challenging Software Engineer position to leverage technical competencies, software development knowledge, and strong communication skills.",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
     experiences: [
+      {
+        title: "Graduate Coordinator",
+        company: "Student Centre for Academic Achievement, California State University, East Bay",
+        company_url: "https://www.csueastbay.edu/",
+        logo_path: "SCAA_logo.png",
+        alt_name: "SCAA_logo",
+        duration: "(Aug, 2023 - May, 2024)",
+        location: "Hybrid",
+        description:
+          "<li>Implementing a comprehensive subject tutoring program following guidelines from the College Reading and Learning Association. Supervising 10-20 undergraduate/graduate instructional student assistants (tutors). Assisting with the creation and management of assessment and evaluation instruments.</li><li>Assisting with tutor scheduling and timesheet approval. Assist students in using lab resources and software. Provide technical support to students and faculty members who encounter computer or software issues. Communicate effectively with faculty, staff, and students to ensure smooth departmental operations.</li>",
+        color: "#0071C5",
+      },
+      {
+        title: "Student Assistant",
+        company: "California State University, East Bay",
+        company_url: "https://www.csueastbay.edu/",
+        logo_path: "CSUEB_logo.png",
+        alt_name: "CSUEB_logo",
+        duration: "(Feb, 2023 - May, 2023)",
+        location: "Onsite",
+        description:
+          "<li>Assist students in using lab resources and software. Helping them with code issues.</li><li>Provide technical support to students and faculty members who encounter computer or software issues.</li><li>Communicate effectively with faculty, staff, and students to ensure smooth departmental operations.</li>",
+        color: "#0071C5",
+      },
       {
         title: "Sr. Software Developer",
         company: "Amdocs",
@@ -525,7 +539,7 @@ const experience = {
         duration: "(May, 2021 - July, 2022)",
         location: "Remote",
         description:
-          "<li>Launched Encharta 2.0 in a team of four with add on features such as multiple content pages in a single project, audio, custom gradients, trigger and hover based animations etc. in canvas using ReactJS v18.</li><br><li>Created a PWA named Encharta for all the educators in Infosys for creating their own analogies with add on animations in their content using HTML, CSS, JavaScript and an open source library Fabric.js.</li>",
+          "<li>In the core software product research team, I was responsible for designing and implementing high-level solutions across CatalogOne's modules. Mytasks included optimizing code, improving performance, fixing bugs, and maintaining the codebase.</li><li>Developed technical designs prior to user story creation, analyzing requirements and implementing them in alignment with user expectations. This encompassed introducing new features, maintaining existing ones, overseeing build activities, analyzing failures, and proactively preventingrecurrences.</li><li>Provided application support and led outage calls to engage all impacted applications. I offered timely and effective solutions, methodically solved problems, and ensured regular updates were provided to all stakeholders.</li>",
         color: "#0071C5",
       },
       {
@@ -537,7 +551,7 @@ const experience = {
         duration: "(Sep, 2019 - May, 2021)",
         location: "Remote",
         description:
-          "<li>Implemented few UI tweaks and added new categories with add on pop-ups (video, images etc.) in an web app named “Awards For Excellence” which is used for nominating employees within Infosys for various award categories using Angular v10.</li><br><li>Implemented REST API using Node and Express to fetch the data of the classrooms, learners, educators and courses. Used socket programming for multi-user experience and other features like chat, screen, audio and video share for web based AR/VR learning platform.</li><br><li>Developed 2 new tools with an intuitive design in Lex (Learning platform for the employees of Infosys) for interactive content creation using Angular v12 which is getting used by 100+ educators for creating new interactive courses, consumed by 1000+ learners.</li>",
+          "<li>Developed reports for major production houses like Warner Bros, Disney, and FHE using the Product Studio Finance System.<li>Managed an application that handled change requests, integrated new features, and implemented services for supporting new business functionalities. Successfully created and integrated REST API based on client requirements.</li><li>Conducted thorough investigations of issues by debugging and reviewing code, offering fixes and workarounds while adhering to coding standards.</li><li>Played a key role in reviewing software changes, identifying potential risks, and assisting in risk mitigation using specified technologies.</li>",
         color: "#0071C5",
       },
       {
@@ -549,7 +563,7 @@ const experience = {
         duration: "(Dec, 2016 - Aug, 2019)",
         location: "Pune, India",
         description:
-          "Worked on multiple Capstone projects using Spring Boot and Angular.",
+          "<li>Accountable for a software application, overseeing diverse change requests, introducing new features, and incorporating fresh services to support novel business functionalities.</li><li>Provided comprehensive lifecycle support to clients, covering everything from initial interaction and requirement analysis to design, coding, testing, debugging, implementation, and integration.</li><li>Designed and implemented an email notification service within the TCS MasterCraft DataPlus product, notifying users about job statuses and schedules. Developed the Jobflow group service feature, enabling sequential job execution with an agile framework.<li>Created an automated deployment mechanism for remote application builds upon build completion. Successfully generated software product installers and deployed them on client machines.</li>",
         color: "#4285F4",
       },
     ],

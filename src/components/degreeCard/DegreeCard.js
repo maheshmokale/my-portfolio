@@ -52,17 +52,15 @@ function DegreeCard(props) {
             </div>
           </div>
           <div className="body-content">
-            {degree.descriptions.map((sentence, index) => {
-              return (
-                <p
-                  key={"degree-" + index}
-                  className="content-list"
-                  style={{ color: theme.text }}
-                >
-                  {sentence}
-                </p>
-              );
-            })}
+
+            <ol
+              className="content-list"
+              style={{ color: theme.text }}
+              dangerouslySetInnerHTML={{
+                __html: degree.descriptions,
+              }}
+            >
+            </ol>
             {degree.website_link && (
               <a
                 href={degree.website_link}

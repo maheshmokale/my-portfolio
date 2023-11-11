@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
 .degree-card {
   display: flex;
   width: 100%;
@@ -19,7 +22,7 @@
 }
 
 .card-img {
-  width: 200px;
+  width: 300px;
   height: auto;
   border-radius: 50%;
 }
@@ -57,10 +60,28 @@
   align-items: center;
 }
 
+ul ol {
+  list-style: disc;
+  padding: 3%;
+}
+
+.main ul,
+.main1 ul {
+  display: block;
+  margin: 0 auto;
+  max-width: 1050px;
+  padding: 1rem !important;
+}
+
 .content-list {
   padding-left: 10px;
   padding-right: 10px;
   font-family: "Google Sans Regular";
+  font-size: x-large;
+  list-style: "⚡";
+  text-align: left;
+  padding-inline-start: 20px !important;
+
 }
 
 .card-body {
@@ -89,6 +110,7 @@
   margin: 0px;
   padding: 0px;
   font-family: "Google Sans Regular";
+  font-size: x-large;
 }
 
 @media (max-width: 768px) {
