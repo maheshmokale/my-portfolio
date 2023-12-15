@@ -19,7 +19,7 @@ const greeting = {
 
   subTitle: "Full Stack Developer, Life Long Learner, Cook too",
   resumeLink:
-    "https://drive.google.com/file/d/1ZjMc5I8RbOoO2eKr7BRZPiVya90Ohp0N/view?usp=drive_link",
+    "https://drive.google.com/file/d/196aEyD1J_dYjNdJhnyZV2FQjq3k2X-pf/view?usp=drive_link",
   mail: "mailto:maheshmokale.mm@gmail.com",
 };
 
@@ -44,6 +44,13 @@ const skills = {
         "⚡ Integration of third party services such as Firebase",
       ],
       softwareSkills: [
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:aws",
+          style: {
+            color: "#E34F26",
+          },
+        },
         {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
@@ -307,13 +314,13 @@ const skills = {
             height: "1em",
           },
         },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",
