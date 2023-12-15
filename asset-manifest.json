@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e07cc83b.css",
-    "main.js": "/static/js/main.e7ef0ffa.js",
+    "main.js": "/static/js/main.7d160aad.js",
     "static/media/mail.gif": "/static/media/mail.b8b1eae025a861cda69a.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.33f11e8e33e406b0dc21.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.5f2a2f236048660df440.svg",
@@ -39,10 +39,10 @@
     "static/media/cybage-logo.png": "/static/media/cybage-logo.9983e1ce6d5d06e9a8a8.png",
     "index.html": "/index.html",
     "main.e07cc83b.css.map": "/static/css/main.e07cc83b.css.map",
-    "main.e7ef0ffa.js.map": "/static/js/main.e7ef0ffa.js.map"
+    "main.7d160aad.js.map": "/static/js/main.7d160aad.js.map"
   },
   "entrypoints": [
     "static/css/main.e07cc83b.css",
-    "static/js/main.e7ef0ffa.js"
+    "static/js/main.7d160aad.js"
   ]
 }
