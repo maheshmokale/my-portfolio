@@ -45,6 +45,13 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:aws",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
           skillName: "HTML5",
           fontAwesomeClassname: "simple-icons:html5",
           style: {
@@ -307,13 +314,13 @@ const skills = {
             height: "1em",
           },
         },
-        // {
-        //   skillName: "Docker",
-        //   fontAwesomeClassname: "simple-icons:docker",
-        //   style: {
-        //     color: "#1488C6",
-        //   },
-        // },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",
