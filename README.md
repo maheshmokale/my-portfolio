@@ -30,6 +30,15 @@ Use the following command to run the app in your localhost.
 npm start
 ```
 
+### Deploy the app on Githhub with ghPages
+
+Use the following command to run the app in your localhost.
+
+```
+npm run build
+npm run deploy
+```
+
 ## Contact
 
 If you want to contact me, you can reach me through below handles.
