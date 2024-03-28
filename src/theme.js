@@ -1,7 +1,7 @@
 // Theme Presets
 const lightTheme = {
   name: "light",
-  body: "#FEE9F2",
+  body: "#fff",
   text: "#343434",
   dark: "#31071A",
   secondaryText: "#7F8DAA",
