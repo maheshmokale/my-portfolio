@@ -19,7 +19,7 @@ const greeting = {
 
   subTitle: "Full Stack Developer, Life Long Learner, Cook too",
   resumeLink:
-    "https://drive.google.com/file/d/1vxqC7NkxvFOHDlSYZV834dG4mKGB2N7B/view?usp=sharing",
+    "https://drive.google.com/file/d/1QMRGSqtKvcXivWqtIP-Gqqxot0UUCLSF/view?usp=drive_link",
   mail: "mailto:maheshmokale.mm@gmail.com",
 };
 
