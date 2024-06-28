@@ -578,12 +578,12 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Apprenticeship",
   description:
-    "As a Graduate Coordinator at the Student Center for Academic Achievement at California State University, East Bay, I assist students with math and statistics tutoring, coordinating academic support services. Currently pursuing a Master's in Computer Science (expected graduation May 2024), I have a background as a Senior Software Developer at Amdocs. In this role, I contributed to the design and implementation of solutions in CatalogOne, a cloud-based catalog management system, enhancing code quality, performance, and reliability. With over five years of software development experience in Java, Node, and Python, I excel in creating user-friendly systems. Seeking a challenging Software Engineer position to leverage technical competencies, software development knowledge, and strong communication skills.",
+    "Experienced Software Engineer with over 5+ years of expertise in designing, developing, testing, and debugging software applications. Proficient in Java, React, SQL, and leveraging cloud-based solutions like AWS. Demonstrated ability in full application stack development, from frontend to backend, with a focus on secure coding practices, test-driven development, and CI/CD pipelines. Strong background in interacting with end users to define system requirements and implement scalable, high-performance solutions.  Actively seeking to contribute to innovative projects within a dynamic and forward-thinking organization.",
   header_image_path: "experience.svg",
   sections: {
     title: "Work Experience",
     experiences: [
-      {
+      /*{
         title: "Graduate Coordinator",
         company: "Student Centre for Academic Achievement, California State University, East Bay",
         company_url: "https://www.csueastbay.edu/",
@@ -606,17 +606,18 @@ const experience = {
         description:
           "<li>Assist students in using lab resources and software. Helping them with code issues.</li><li>Provide technical support to students and faculty members who encounter computer or software issues.</li><li>Communicate effectively with faculty, staff, and students to ensure smooth departmental operations.</li>",
         color: "#0071C5",
-      },
+      },*/
       {
-        title: "Sr. Software Developer",
+        title: "Software Developer",
         company: "Amdocs",
         company_url: "https://www.amdocs.com/",
         logo_path: "amdocs-logo.png",
         alt_name: "amdocs-logo",
-        duration: "(May, 2021 - July, 2022)",
+        duration: "(May, 2023 - May, 2024)",
         location: "Remote",
         description:
-          "<li>In the core software product research team, I was responsible for designing and implementing high-level solutions across CatalogOne's modules. Mytasks included optimizing code, improving performance, fixing bugs, and maintaining the codebase.</li><li>Developed technical designs prior to user story creation, analyzing requirements and implementing them in alignment with user expectations. This encompassed introducing new features, maintaining existing ones, overseeing build activities, analyzing failures, and proactively preventingrecurrences.</li><li>Provided application support and led outage calls to engage all impacted applications. I offered timely and effective solutions, methodically solved problems, and ensured regular updates were provided to all stakeholders.</li>",
+          "<li>Managed the process of creating and validating business requests (BRs), ensuring all entities and policies were correctly associated with them, and handling business/technical errors to facilitate smooth publishing of offers.</li><li>Implemented and optimized the tech stack including React for the front end, Java for the backend, Couchbase for the database, and Elasticsearch for caching and search functionality. Also utilized Kafka for message queuing and event handling, and Kibana for log tracing.</li><li>Executed cloud-based deployment using Docker and Kubernetes, ensuring scalable and efficient cloud operations for the Catalog suite.</li><li>Fixed critical issues and bugs in the Catalog application, ensuring smooth and uninterrupted service delivery to clients.</li><li>Operated closely with cross-functional teams, including product managers, QA, and operations, to deliver high-quality features and resolve issues promptly.</li><li>Created detailed documentation for the Catalog application features and workflows, and provided training to new team members to ensure knowledge transfer and consistency in development practices.</li><li>Worked in an Agile environment, actively participating in sprint planning, daily stand-ups, and retrospectives to ensure continuous improvement and effective project management.</li><li>Organized the full software development lifecycle from concept to deployment, ensuring timely and efficient delivery of features and updates.</li><li>Participated in design and code reviews, maintaining high-quality standards and adherence to best practices.</li>"
+        ,
         color: "#0071C5",
       },
       {
@@ -625,10 +626,10 @@ const experience = {
         company_url: "hhttps://www.cybage.com/",
         logo_path: "cybage-logo.png",
         alt_name: "cybage-logo",
-        duration: "(Sep, 2019 - May, 2021)",
+        duration: "(Sep, 2019 - May, 2022)",
         location: "Remote",
         description:
-          "<li>Developed reports for major production houses like Warner Bros, Disney, and FHE using the Product Studio Finance System.<li>Managed an application that handled change requests, integrated new features, and implemented services for supporting new business functionalities. Successfully created and integrated REST API based on client requirements.</li><li>Conducted thorough investigations of issues by debugging and reviewing code, offering fixes and workarounds while adhering to coding standards.</li><li>Played a key role in reviewing software changes, identifying potential risks, and assisting in risk mitigation using specified technologies.</li>",
+          "<li>Handled issues reported by major customers like Disney, FHE, and Warner Bros, addressing them through Jira tickets.</li><li>Developed and maintained stored procedures to generate region-wise financial analysis reports, ensuring accurate and efficient data handling and reporting.</li><li>Regularly fixed Java and JavaScript code issues to maintain and improve the functionality and performance of the Mediamorph Content Value Management platform.</li><li>Migrated the old Mediamorph application to a new replatformed version, utilizing a modern tech stack including React, Spring Boot, and Elasticsearch, to enhance performance, scalability, and user experience.</li><li>Utilized CI/CD pipelines and DevOps practices to streamline deployment processes.</li><li>Leveraged JIRA to track project progress & maintained extensive documentation on Confluence pages.</li>",
         color: "#0071C5",
       },
       {
@@ -640,7 +641,7 @@ const experience = {
         duration: "(Dec, 2016 - Aug, 2019)",
         location: "Pune, India",
         description:
-          "<li>Accountable for a software application, overseeing diverse change requests, introducing new features, and incorporating fresh services to support novel business functionalities.</li><li>Provided comprehensive lifecycle support to clients, covering everything from initial interaction and requirement analysis to design, coding, testing, debugging, implementation, and integration.</li><li>Designed and implemented an email notification service within the TCS MasterCraft DataPlus product, notifying users about job statuses and schedules. Developed the Jobflow group service feature, enabling sequential job execution with an agile framework.<li>Created an automated deployment mechanism for remote application builds upon build completion. Successfully generated software product installers and deployed them on client machines.</li>",
+          "<li>Integrated an email notification system to alert users upon the completion of a job flow or a group of job flows, ensuring they are promptly informed if a job has successfully finished or encountered an error.</li><li>Integrated a job flow grouping service, enabling the sequential execution of multiple jobs. This feature allows users to create sequences where one job automatically follows another, streamlining the process and enhancing workflow automation.</li><li>Managed a data modeling service, resolving issues and adding support for new databases to enable metadata creation, thereby enhancing the system's capabilities and improving data management efficiency.</li><li>Managed the DataPlus core monolithic application, focusing on fixing bugs to ensure the service ran effectively and efficiently.</li><li>Was part of a quick response team dedicated to resolving sensitive client issues in production environments, ensuring minimal downtime, and maintaining client satisfaction.</li><li>Utilized JWT tokens for user authorization and maintaining user sessions, ensuring secure and efficient access management within the application.</li><li>Initially focused on creating manual builds using Maven and tracking them, then later migrated to Jenkins to manage and automate the build process, improving efficiency and consistency.</li><li>Created product installers using InstallAnywhere software, which was uploaded to the TCS website. This allowed customers to connect with the sales team to obtain licenses and download the service.</li><li>Wrote JUnit test cases to ensure code quality and reliability, facilitating thorough testing and validation of application functionality.</li>",
         color: "#4285F4",
       },
     ],
