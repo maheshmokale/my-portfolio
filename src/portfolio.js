@@ -19,15 +19,15 @@ const greeting = {
 
   subTitle: "Full Stack Developer, Life Long Learner, Cook too",
   resumeLink:
-    "https://drive.google.com/file/d/1QMRGSqtKvcXivWqtIP-Gqqxot0UUCLSF/view?usp=drive_link",
-  mail: "mailto:maheshmokale.mm@gmail.com",
+    "https://drive.google.com/file/d/1fx3KOWAoWrS4t6ml4_X7kRJ9R19rwuMM/view?usp=drive_link",
+  mail: "mailto:maheshmokale131@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/maheshmokale",
   linkedin: "https://www.linkedin.com/in/maheshmokale/",
-  gmail: "maheshmokale.mm@gmail.com",
+  gmail: "maheshmokale131@gmail.com",
   twitter: "https://twitter.com/maheshmokale",
 };
 
